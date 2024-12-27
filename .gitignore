@@ -1,0 +1,4 @@
+*
+!.gitignore
+!crop_disease_image_detector.ipynb
+!project_images/
